@@ -4,3 +4,4 @@ if n = 1:
   print(f"It's me, {name}")
 else:
   print("Not me")
+print("Всё заработало")
